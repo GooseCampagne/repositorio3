@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>soy el archivo formulario</h1>
+    <h2>Segunda linea</h2>
 </body>
 </html>l
